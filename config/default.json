@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://abcdefgh12345:abcdefgh12345@cluster0.c3sws.mongodb.net/Gitter?retryWrites=true&w=majority",
+  "jwtSecret": "lamolamokapal123"
+}
